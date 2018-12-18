@@ -4,7 +4,7 @@ print ("\033[1;32mMasukan UserName&Password Mank :3")
 print ("\033[1;31;1mKalo Gak Tau Pm Swity 089699989010")
 print ("\033[1;31;1mLuBuriqGwGans tq :3")
 username = 'Swity'      
-password = 'Ganteng'
+password = 'Tamvan'
 
 def restart():
 	ngulang = sys.executable
