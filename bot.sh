@@ -5,7 +5,8 @@
 #Gw capek gblg bikinya
 #Thanks to all member
 #CyberLayersTeam
-
+cd module
+python2 log.py
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
